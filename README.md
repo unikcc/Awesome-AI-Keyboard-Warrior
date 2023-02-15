@@ -28,7 +28,7 @@ This repository contains research on using AI to control computers solely throug
 ---
 
 <h2 id="1">📜 Papers </h2>
----
+
 1. **A data-driven approach for learning to control computers**
 *Peter C Humphreys, David Raposo, Tobias Pohlen, Gregory Thornton, Rachita Chhaparia, Alistair Muldal, Josh Abramson, Petko Georgiev, Adam Santoro, Timothy Lillicrap* 
 ICML, 2022, [[Paper](https://proceedings.mlr.press/v162/humphreys22a.html)]
