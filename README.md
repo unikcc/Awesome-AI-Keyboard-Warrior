@@ -30,30 +30,30 @@ This repository contains research on using AI to control computers solely throug
 <h2 id="1">📜 Papers </h2>
 
 1. **A data-driven approach for learning to control computers**
-*Peter C Humphreys, David Raposo, Tobias Pohlen, Gregory Thornton, Rachita Chhaparia, Alistair Muldal, Josh Abramson, Petko Georgiev, Adam Santoro, Timothy Lillicrap* 
+*Peter C Humphreys, David Raposo, Tobias Pohlen, Gregory Thornton, Rachita Chhaparia, Alistair Muldal, Josh Abramson, Petko Georgiev, Adam Santoro, Timothy Lillicrap*, 
 ICML, 2022, [[Paper](https://proceedings.mlr.press/v162/humphreys22a.html)]
 
 2. **Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos**
-*Bowen Baker, Ilge Akkaya, Peter Zhokhov, Joost Huizinga, Jie Tang, Adrien Ecoffet, Brandon Houghton, Raul Sampedro, Jeff Clune*
+*Bowen Baker, Ilge Akkaya, Peter Zhokhov, Joost Huizinga, Jie Tang, Adrien Ecoffet, Brandon Houghton, Raul Sampedro, Jeff Clune*,
 NeurIPS, 2022, [[Paper](https://openreview.net/forum?id=AXDNM76T1nc)] [[Code](https://github.com/openai/Video-Pre-Training)]
 
 2. **MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge**
-*Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar*
+*Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar*,
 NeurIPS, **Outstanding paper**, 2022, [[Paper](https://openreview.net/forum?id=rc8o_j8I8PX)] [[Code](https://github.com/MineDojo/MineDojo)] [[Demo](https://minedojo.org/)]
 
 3. **WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents**
-*Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan*
+*Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan*,
 NeurIPS, 2022 [[Paper](https://openreview.net/forum?id=R9KnuFlvnU)] [[Code](https://github.com/princeton-nlp/WebShop)] [[Demo](https://webshop-pnlp.github.io/)]
 
 4. **Do BERTs Learn to Use Browser User Interface? Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs**
-*Taichi Ik, Akiko Aizawa*
+*Taichi Ik, Akiko Aizawa*,
 Arxiv, [[Paper](https://arxiv.org/abs/2203.07828)]
 5. **Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration**
-*Evan Zheran Liu, Kelvin Guu, Panupong Pasupat, Tianlin Shi, Percy Liang*
+*Evan Zheran Liu, Kelvin Guu, Panupong Pasupat, Tianlin Shi, Percy Liang*,
 ICLR, 2018, [[Paper](https://openreview.net/forum?id=ryTp3f-0-)]
 
 6. **World of Bits: An Open-Domain Platform for Web-Based Agents**
-*Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang *
+*Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang*,
 ICML, 2017, [[Paper](https://proceedings.mlr.press/v70/shi17a.html)]
 
 
