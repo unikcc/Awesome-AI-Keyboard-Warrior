@@ -3,9 +3,9 @@
 This repository contains research on using AI to control computers solely through the mouse and keyboard.
 
 <p align="center">
-  <strong><a href="#1">Papers</a></strong> •
-  <strong><a href="#2">Simulation Environments & Benchmarks</a></strong> •
-  <strong><a href="#3">Auxiliary Tools</a></strong>
+  <a href="#1">Papers</a> •
+  <a href="#2">Simulation Environments & Benchmarks</a> •
+  <a href="#3">Auxiliary Tools</a>
 </p>
 
 <a href="https://github.com/unikcc/Awesome-AI-Keyboard-Warrior">
@@ -30,23 +30,68 @@ This repository contains research on using AI to control computers solely throug
 <h2 id="1">📜 Papers </h2>
 <ol>
 
-<li> <strong>A data-driven approach for learning to control computers</strong> Peter C Humphreys, David Raposo, Tobias Pohlen, Gregory Thornton, Rachita Chhaparia, Alistair Muldal, Josh Abramson, Petko Georgiev, Adam Santoro, Timothy Lillicrap*, 
+<li> A data-driven approach for learning to control computers Peter C Humphreys, <strong> David Raposo, Tobias Pohlen, Gregory Thornton, Rachita Chhaparia, Alistair Muldal, Josh Abramson, Petko Georgiev, Adam Santoro, Timothy Lillicrap</strong>, 
 ICML, 2022, [<a href="https://proceedings.mlr.press/v162/humphreys22a.html">Paper</a>]</li>
 
-<li><strong>Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos</strong> *Bowen Baker, Ilge Akkaya, Peter Zhokhov, Joost Huizinga, Jie Tang, Adrien Ecoffet, Brandon Houghton, Raul Sampedro, Jeff Clune*, NeurIPS, 2022, [<a href="https://openreview.net/forum?id=AXDNM76T1nc">Paper</a>], [<a href="https://github.com/openai/Video-Pre-Training">Code</a>]</li>
+<li>Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos <strong>Bowen Baker, Ilge Akkaya, Peter Zhokhov, Joost Huizinga, Jie Tang, Adrien Ecoffet, Brandon Houghton, Raul Sampedro, Jeff Clune</strong>, NeurIPS, 2022, [<a href="https://openreview.net/forum?id=AXDNM76T1nc">Paper</a>], [<a href="https://github.com/openai/Video-Pre-Training">Code</a>]</li>
 
-<li><strong>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge</strong> *Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar*, NeurIPS, <strong>Outstanding paper</strong>, 2022, [<a href="https://openreview.net/forum?id=rc8o_j8I8PX">Paper</a>], [<a href="https://github.com/MineDojo/MineDojo">Code</a>], [<a href="https://minedojo.org/">Demo</a>]</li>
+<li>MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge <strong>Linxi Fan, Guanzhi Wang, Yunfan Jiang, Ajay Mandlekar, Yuncong Yang, Haoyi Zhu, Andrew Tang, De-An Huang, Yuke Zhu, Anima Anandkumar</strong>, NeurIPS, Outstanding paper, 2022, [<a href="https://openreview.net/forum?id=rc8o_j8I8PX">Paper</a>], [<a href="https://github.com/MineDojo/MineDojo">Code</a>], [<a href="https://minedojo.org/">Demo</a>]</li>
 
-<li><strong> Do As I Can, Not As I Say:
-Grounding Language in Robotic Affordances </strong> Michael Ahn∗, Anthony Brohan∗, Noah Brown∗, Yevgen Chebotar∗, Omar Cortes, et al, Arxiv, 2022, [<a href="https://arxiv.org/pdf/2204.01691.pdf">Paper</a>], [<a href="https://say-can.github.io/">Demo</a>]</li>
+<li> Do As I Can, Not As I Say:
+Grounding Language in Robotic Affordances  
+<strong>
+Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes
+</strong>
+Arxiv, 2022, 
+[<a href="https://arxiv.org/pdf/2204.01691.pdf">Paper</a>], [<a href="https://say-can.github.io/">Demo</a>]</li>
 
-<li><strong>WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents</strong> *Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan*, NeurIPS, 2022 [<a href="https://openreview.net/forum?id=R9KnuFlvnU">Paper</a>], [<a href="https://github.com/princeton-nlp/WebShop">Code</a>], [<a href="https://webshop-pnlp.github.io/">Demo</a>]</li>
 
-<li><strong>Do BERTs Learn to Use Browser User Interface? Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs</strong> *Taichi Ik, Akiko Aizawa*, Arxiv, [<a href="https://arxiv.org/abs/2203.07828">Paper</a>]</li>
+<li>WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents <strong>Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan</strong>, NeurIPS, 2022 [<a href="https://openreview.net/forum?id=R9KnuFlvnU">Paper</a>], [<a href="https://github.com/princeton-nlp/WebShop">Code</a>], [<a href="https://webshop-pnlp.github.io/">Demo</a>]</li>
 
-<li><strong>Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration</strong> *Evan Zheran Liu, Kelvin Guu, Panupong Pasupat, Tianlin Shi, Percy Liang*, ICLR, 2018, [<a href="https://openreview.net/forum?id=ryTp3f-0-">Paper</a>]</li>
+<li>Do BERTs Learn to Use Browser User Interface? Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs <strong>Taichi Ik, Akiko Aizawa</strong>, Arxiv, [<a href="https://arxiv.org/abs/2203.07828">Paper</a>]</li>
 
-<li><strong>World of Bits: An Open-Domain Platform for Web-Based Agents</strong> *Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang*, ICML, 2017, [<a href="https://proceedings.mlr.press/v70/shi17a.html">Paper</a>]</li>
+<li>Reinforcement Learning on Web Interfaces using Workflow-Guided Exploration <strong>Evan Zheran Liu, Kelvin Guu, Panupong Pasupat, Tianlin Shi, Percy Liang</strong>, ICLR, 2018, [<a href="https://openreview.net/forum?id=ryTp3f-0-">Paper</a>]</li>
+
+<li>World of Bits: An Open-Domain Platform for Web-Based Agents <strong>
+Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang
+</strong>, ICML, 2017, [<a href="https://proceedings.mlr.press/v70/shi17a.html">Paper</a>]</li>
+
+<li>
+Language Models can Solve Computer Tasks 
+<strong>
+Geunwoo Kim, Pierre Baldi, Stephen McAleer,
+</strong>, Arxiv, 2023, 
+[<a href="https://arxiv.org/abs/2303.17491">Paper</a>],
+[<a href="https://posgnu.github.io/rci-web/">Project</a>]
+</li>
+
+
+<li>
+From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces
+<strong>
+Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova
+</strong>, Arxiv, 2023, 
+[<a href="https://arxiv.org/abs/2306.00245">Paper</a>],
+</li>
+
+
+<li>
+Android in the Wild: A Large-Scale Dataset for Android Device Control
+<strong>
+Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
+</strong>, Arxiv, 2023, 
+[<a href="https://arxiv.org/abs/2307.10088">Paper</a>],
+</li>
+
+<li>
+Synapse: Leveraging Few-Shot Exemplars for Human-Level Computer Control
+<strong>
+Longtao Zheng, Rundong Wang, Bo An
+</strong>, Arxiv, 2023, 
+[<a href="https://arxiv.org/abs/2306.07863">Paper</a>],
+</li>
+
+
 
 </ol>
 
