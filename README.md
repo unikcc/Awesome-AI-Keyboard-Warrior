@@ -70,8 +70,8 @@ Geunwoo Kim, Pierre Baldi, Stephen McAleer,
 From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces
 <strong>
 Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova
-</strong>, Arxiv, 2023, 
-[<a href="https://arxiv.org/abs/2306.00245">Paper</a>],
+</strong>, NIPS, 2023, 
+[<a href="https://openreview.net/forum?id=3PjCt4kmRx">Paper</a>],
 </li>
 
 
@@ -91,7 +91,14 @@ Longtao Zheng, Rundong Wang, Bo An
 [<a href="https://arxiv.org/abs/2306.07863">Paper</a>],
 </li>
 
-
+<li>
+A Zero-Shot Language Agent for Computer Control with Structured Reflection
+<strong>
+Tao Li, Gang Li, Zhiwei Deng, Bryan Wang, Yang Li
+</strong>, EMNLP(Findings), 2023, 
+[<a href="https://arxiv.org/abs/2310.08740">Paper</a>],
+[<a href="https://github.com/google-research/google-research/tree/master/zero_shot_structured_reflection">Code</a>],
+</li>
 
 </ol>
 
