@@ -45,7 +45,6 @@ Michael Ahn, Anthony Brohan, Noah Brown, Yevgen Chebotar, Omar Cortes
 Arxiv, 2022, 
 [<a href="https://arxiv.org/pdf/2204.01691.pdf">Paper</a>], [<a href="https://say-can.github.io/">Demo</a>]</li>
 
-
 <li>WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents <strong>Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan</strong>, NeurIPS, 2022 [<a href="https://openreview.net/forum?id=R9KnuFlvnU">Paper</a>], [<a href="https://github.com/princeton-nlp/WebShop">Code</a>], [<a href="https://webshop-pnlp.github.io/">Demo</a>]</li>
 
 <li>Do BERTs Learn to Use Browser User Interface? Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs <strong>Taichi Ik, Akiko Aizawa</strong>, Arxiv, [<a href="https://arxiv.org/abs/2203.07828">Paper</a>]</li>
@@ -79,16 +78,18 @@ Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexian
 Android in the Wild: A Large-Scale Dataset for Android Device Control
 <strong>
 Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
-</strong>, Arxiv, 2023, 
+</strong>, NIPS (Dataset Trasck), 2024, 
 [<a href="https://arxiv.org/abs/2307.10088">Paper</a>],
+[<a href="https://github.com/google-research/google-research/tree/master/android_in_the_wild">Code</a>],
 </li>
 
 <li>
 Synapse: Leveraging Few-Shot Exemplars for Human-Level Computer Control
 <strong>
 Longtao Zheng, Rundong Wang, Bo An
-</strong>, Arxiv, 2023, 
+</strong>, ICLR, 2024, 
 [<a href="https://arxiv.org/abs/2306.07863">Paper</a>],
+[<a href="https://ltzheng.github.io/Synapse/">Project</a>],
 </li>
 
 <li>
