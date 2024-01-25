@@ -88,45 +88,40 @@ Geunwoo Kim, Pierre Baldi, Stephen McAleer,
 
 <li>
 From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces
-<strong>
 Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova
-</strong>, NIPS, 2023, 
+, NIPS, 2023, 
 [<a href="https://openreview.net/forum?id=3PjCt4kmRx">Paper</a>],
 </li>
 
 
 <li>
 Android in the Wild: A Large-Scale Dataset for Android Device Control
-<strong>
 Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
-</strong>, NIPS (Dataset Trasck), 2024, 
+, NIPS (Dataset Trasck), 2024, 
 [<a href="https://arxiv.org/abs/2307.10088">Paper</a>],
 [<a href="https://github.com/google-research/google-research/tree/master/android_in_the_wild">Code</a>],
 </li>
 
 <li>
 Synapse: Leveraging Few-Shot Exemplars for Human-Level Computer Control
-<strong>
 Longtao Zheng, Rundong Wang, Bo An
-</strong>, ICLR, 2024, 
+, ICLR, 2024, 
 [<a href="https://arxiv.org/abs/2306.07863">Paper</a>],
 [<a href="https://ltzheng.github.io/Synapse/">Project</a>],
 </li>
 
 <li>
 A Zero-Shot Language Agent for Computer Control with Structured Reflection
-<strong>
 Tao Li, Gang Li, Zhiwei Deng, Bryan Wang, Yang Li
-</strong>, EMNLP(Findings), 2023, 
+, EMNLP(Findings), 2023, 
 [<a href="https://arxiv.org/abs/2310.08740">Paper</a>],
 [<a href="https://github.com/google-research/google-research/tree/master/zero_shot_structured_reflection">Code</a>],
 </li>
 
 <li>
 SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents
-<strong>
 Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu
-</strong>, arxiv, 2023, 
+, arxiv, 2023, 
 [<a href="https://arxiv.org/abs/2401.10935">Paper</a>],
 [<a href="https://github.com/njucckevin/SeeClick">Code & Data</a>],
 </li>
