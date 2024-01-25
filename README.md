@@ -28,8 +28,76 @@ This repository contains research on using AI to control computers solely throug
 ---
 
 <h2 id="1">📜 Papers </h2>
-<ol>
 
+<h4>2024</h4>
+
+<ol>
+<li>
+Synapse: Leveraging Few-Shot Exemplars for Human-Level Computer Control
+Longtao Zheng, Rundong Wang, Bo An
+, <b>ICLR</b>, 2024, 
+[<a href="https://arxiv.org/abs/2306.07863">Paper</a>],
+[<a href="https://ltzheng.github.io/Synapse/">Project</a>],
+</li>
+
+<li>
+SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents
+Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu
+, arxiv, 2023, 
+[<a href="https://arxiv.org/abs/2401.10935">Paper</a>],
+[<a href="https://github.com/njucckevin/SeeClick">Code & Data</a>],
+</li>
+
+</ol>
+
+<h4>2023</h4>
+
+<ol>
+<li>
+Android in the Wild: A Large-Scale Dataset for Android Device Control
+Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
+, <b>NeurIPS (Dataset Trasck)</b>, 2023, 
+[<a href="https://arxiv.org/abs/2307.10088">Paper</a>],
+[<a href="https://github.com/google-research/google-research/tree/master/android_in_the_wild">Code</a>],
+</li>
+
+<li>
+Language Models can Solve Computer Tasks 
+Geunwoo Kim, Pierre Baldi, Stephen McAleer,
+, Arxiv, 2023, 
+[<a href="https://arxiv.org/abs/2303.17491">Paper</a>],
+[<a href="https://posgnu.github.io/rci-web/">Project</a>]
+</li>
+
+<li>
+From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces
+Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova
+, <b>NeurIPS</b>, 2023, 
+[<a href="https://openreview.net/forum?id=3PjCt4kmRx">Paper</a>],
+</li>
+
+<li>
+Mind2Web: Towards a Generalist Agent for the Web
+Xiang Deng, Yu Gu, Boyuan Zheng, Shijie Chen, Samuel Stevens, Boshi Wang, Huan Sun, Yu Su
+, <b>NeurIPS</b>, 2023, 
+[<a href="https://openreview.net/forum?id=kiYqbO3wqw">Paper</a>],
+[<a href="https://osu-nlp-group.github.io/Mind2Web/">Project</a>],
+</li>
+
+
+<li>
+A Zero-Shot Language Agent for Computer Control with Structured Reflection
+Tao Li, Gang Li, Zhiwei Deng, Bryan Wang, Yang Li
+, <b>EMNLP(Findings)</b>, 2023, 
+[<a href="https://arxiv.org/abs/2310.08740">Paper</a>],
+[<a href="https://github.com/google-research/google-research/tree/master/zero_shot_structured_reflection">Code</a>],
+</li>
+
+</ol>
+<!-- <ol> -->
+
+<h4>2022</h4>
+<ol>
 <li> A data-driven approach for learning to control computers Peter C Humphreys, 
 <!-- <strong>  -->
 David Raposo, Tobias Pohlen, Gregory Thornton, Rachita Chhaparia, Alistair Muldal, Josh Abramson, Petko Georgiev, Adam Santoro, Timothy Lillicrap, <b>ICML</b>, 2022, [<a href="https://proceedings.mlr.press/v162/humphreys22a.html">Paper</a>]</li>
@@ -59,6 +127,11 @@ Shunyu Yao, Howard Chen, John Yang, Karthik Narasimhan
 <!-- </strong> -->
 , <b>NeurIPS</b>, 2022 [<a href="https://openreview.net/forum?id=R9KnuFlvnU">Paper</a>], [<a href="https://github.com/princeton-nlp/WebShop">Code</a>], [<a href="https://webshop-pnlp.github.io/">Demo</a>]</li>
 
+</ol>
+
+<h4>2021 (and before) </h4>
+
+<ol>
 <li>Do BERTs Learn to Use Browser User Interface? Exploring Multi-Step Tasks with Unified Vision-and-Language BERTs 
 <!-- <strong> -->
 Taichi Ik, Akiko Aizawa
@@ -77,54 +150,6 @@ Tianlin Shi, Andrej Karpathy, Linxi Fan, Jonathan Hernandez, Percy Liang
 <!-- </strong> -->
 , <b>ICML</b>, 2017, [<a href="https://proceedings.mlr.press/v70/shi17a.html">Paper</a>]</li>
 
-<li>
-Language Models can Solve Computer Tasks 
-Geunwoo Kim, Pierre Baldi, Stephen McAleer,
-, Arxiv, 2023, 
-[<a href="https://arxiv.org/abs/2303.17491">Paper</a>],
-[<a href="https://posgnu.github.io/rci-web/">Project</a>]
-</li>
-
-
-<li>
-From Pixels to UI Actions: Learning to Follow Instructions via Graphical User Interfaces
-Peter Shaw, Mandar Joshi, James Cohan, Jonathan Berant, Panupong Pasupat, Hexiang Hu, Urvashi Khandelwal, Kenton Lee, Kristina Toutanova
-, <b>NIPS</b>, 2023, 
-[<a href="https://openreview.net/forum?id=3PjCt4kmRx">Paper</a>],
-</li>
-
-
-<li>
-Android in the Wild: A Large-Scale Dataset for Android Device Control
-Christopher Rawles, Alice Li, Daniel Rodriguez, Oriana Riva, Timothy Lillicrap
-, <b>NIPS (Dataset Trasck)</b>, 2023, 
-[<a href="https://arxiv.org/abs/2307.10088">Paper</a>],
-[<a href="https://github.com/google-research/google-research/tree/master/android_in_the_wild">Code</a>],
-</li>
-
-<li>
-Synapse: Leveraging Few-Shot Exemplars for Human-Level Computer Control
-Longtao Zheng, Rundong Wang, Bo An
-, <b>ICLR</b>, 2024, 
-[<a href="https://arxiv.org/abs/2306.07863">Paper</a>],
-[<a href="https://ltzheng.github.io/Synapse/">Project</a>],
-</li>
-
-<li>
-A Zero-Shot Language Agent for Computer Control with Structured Reflection
-Tao Li, Gang Li, Zhiwei Deng, Bryan Wang, Yang Li
-, <b>EMNLP(Findings)</b>, 2023, 
-[<a href="https://arxiv.org/abs/2310.08740">Paper</a>],
-[<a href="https://github.com/google-research/google-research/tree/master/zero_shot_structured_reflection">Code</a>],
-</li>
-
-<li>
-SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents
-Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu
-, arxiv, 2023, 
-[<a href="https://arxiv.org/abs/2401.10935">Paper</a>],
-[<a href="https://github.com/njucckevin/SeeClick">Code & Data</a>],
-</li>
 
 </ol>
 
