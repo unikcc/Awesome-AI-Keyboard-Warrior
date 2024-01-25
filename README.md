@@ -101,6 +101,15 @@ Tao Li, Gang Li, Zhiwei Deng, Bryan Wang, Yang Li
 [<a href="https://github.com/google-research/google-research/tree/master/zero_shot_structured_reflection">Code</a>],
 </li>
 
+<li>
+SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents
+<strong>
+Kanzhi Cheng, Qiushi Sun, Yougang Chu, Fangzhi Xu, Yantao Li, Jianbing Zhang, Zhiyong Wu
+</strong>, arxiv, 2023, 
+[<a href="https://arxiv.org/abs/2401.10935">Paper</a>],
+[<a href="https://github.com/njucckevin/SeeClick">Code & Data</a>],
+</li>
+
 </ol>
 
 <h2 id="2">🎮 Simulation Environment && Benchmark</h2>
